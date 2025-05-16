@@ -102,9 +102,12 @@ Nice example of twitter on page `11`.
 - Architecture scales well for app is built around assumptions of which operations will be common and which will be rare -- load parameters.
   If those assumptions turn out to be wrong, the engineering effort for scaling is at best wasted, and at worst counterproductive. 
 
+#### Date: 16 - May -2025
+
+---
 
 ### Maintainability
-- 
+Coming Soon....
 
 
 
