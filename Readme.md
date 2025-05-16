@@ -1,5 +1,4 @@
 ### Designing Data Intensive Applications
 ---
 
-This repository contains notes what I read in __**Designing Data Intensive Applications**__ book.
-Currently, maintaining this repository for personal notes.
+This repository contains notes that I took while reading the __**Designing Data Intensive Applications**__ book. I am currently maintaining it for personal notes.
