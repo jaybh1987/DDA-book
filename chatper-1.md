@@ -1,3 +1,5 @@
+## Chapter 1 Reliable, Scalable, and Maintainable Applications
+
 
 - CPU is not limitation now, problem now is amount of data and how fast it is changing. 
 - standard building blocks
@@ -32,7 +34,9 @@ what we are trying to achieve:
   * Software errors
   * Human errors
 
-Date: 9 - May -2025
+#### Date: 9 - May -2025
+
+---
 
 * Hardware Faults
 * Software errors
@@ -66,6 +70,10 @@ Date: 9 - May -2025
   - hit rate on cache
   - something else
 Nice example of twitter on page `11`. 
+
+#### Date: 16 - May -2025
+
+---
 
 ### Describing performance
 - Increase load parameters and keep the system resource same. how performance is affected?
