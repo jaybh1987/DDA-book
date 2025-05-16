@@ -1,5 +1,7 @@
 ## Chapter 1 Reliable, Scalable, and Maintainable Applications
 
+### Thinking About Data Systems
+
 
 - CPU is not limitation now, problem now is amount of data and how fast it is changing. 
 - standard building blocks
