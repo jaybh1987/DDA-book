@@ -107,8 +107,42 @@ Nice example of twitter on page `11`.
 ---
 
 ### Maintainability
-Coming Soon....
+- Manjority cost is not development but maitainance -- fixing bugs, keeping systems operational, investigating failures, repaying technical debt & adding new features. 
+- Three design principles for software systems: 
+  - Operability: Make it easy for operations teams to keep system running smoothly.
+  - simplicity: Make it easy to understand system for new engineers.
+  - Evolvability: Make it easy for engineers to change system in future. also known as extensibility, modifiability or plasticity. 
+  
+### Operability: Making ife Easy for Operations
+- Good operation team should do: 
+  - Monitoring health of system, quickly restore service if goes into a bad state
+  - tracking down the cause of problems, system failures | degraded performance
+  - keep platform upd to date, security patches. 
+  - keeping tabs on how different systems affect each other?
+  - anticipating future problems and solving them before they occur (e.g capacity planning)
+  - performing complex maitainance tasks, moving system from one to an other platform. 
+  - maitaining security as configurations changes
+  - defining processes that make operations predictable & help keep prod env stable.
+  - Preserving the organization's knowledge about the system, as individual come and go
 
+Making routine task is called good operability. Allows ops team efforts on high value activities. 
+
+
+### Simplicity: Managing Complexity
+- complexity increase the time of maitainance and reduce productivity of the people working on. Increase cost of maitainance. called `big ball of mud` 
+- symptoms of complexity: explosion of the state space, tight coupling of modules, tangled dependencies, inconsistent naming, hacks aimed at solving performance problems etc.
+- Simplicity should be key goal for the system we are building. 
+- abstraction is best tool to removing accidental complexity. 
+- Extract parts of a large system into well-defined, reusable components.
+
+### Evolvability: Making Change Easy
+- Growth of system forces architectural changes. 
+- simple and easy to understand systems are usually easier to modify than complex ones.
+
+### Summary 
+- Applications has to meet various requirements.
+- functional requirements: what is should do, storing, retrieved, searched & processed in various ways
+- non-functional requirements: security, reliability, compliance, scalability, compatibility & maintainability) 
 
 
 
